@@ -1,6 +1,6 @@
-# Password Strength Analyzer
+# Pass_ola_ana
 
-A Python cybersecurity project to analyze password security.
+A Python cybersecurity project to analyze password security
 
 ## Features
 - Structural validation
@@ -10,7 +10,7 @@ A Python cybersecurity project to analyze password security.
 
 ## Usage
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-analyzer.git
-cd password-strength-analyzer
+git clone https://github.com/olayinkaolakunle00-ctrl/Pas_ola_ana.git
+cd pas_ola_ana
 pip install -r requirements.txt
-python password_checker.py
+python pass_checker_ola.py
