@@ -1,0 +1,10 @@
+admin
+password
+hello
+letmein
+welcome
+myname
+housing
+security
+protect
+123456789
